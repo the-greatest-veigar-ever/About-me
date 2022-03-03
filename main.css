@@ -17,17 +17,16 @@ nav {
 
 .index1 {
   margin-top: 230px;
-  margin-left: 50px;
+  margin-left: 800px;
+}
+div.index1-center {
+  margin-top: 200px;
+  text-align: center;
 }
 
-.icon {
-  width: 5%;
-  
-}
 
 
-
-input[type=text].enter-name {
+input[type=text].index1-center {
   width: 25%;
   margin-left: 45px;
   margin-bottom: 25px;
@@ -35,11 +34,8 @@ input[type=text].enter-name {
   font-size: 100%;
 }
 
-input[type=submit].enter-name {
-  width: 25.4%;
-  margin-left: 45px;
-  margin-bottom: 25px;
+input[type=submit].index1-center {
+  width: 30%;
   font-family: 'Press Start 2P', cursive;
   font-size: 100%;
-  padding-bottom: 5px
 }
