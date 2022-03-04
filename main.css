@@ -19,12 +19,11 @@ nav {
   margin-top: 230px;
   margin-left: 800px;
 }
+
 div.index1-center {
   margin-top: 200px;
   text-align: center;
 }
-
-
 
 input[type=text].index1-center {
   width: 25%;
@@ -38,4 +37,18 @@ input[type=submit].index1-center {
   width: 30%;
   font-family: 'Press Start 2P', cursive;
   font-size: 100%;
+}
+
+body.second-page {
+  background-image: url(images/pixeltheme3.jpg);
+  background-repeat: no-repeat;
+}
+.left {
+  padding: 50 50 50 50;
+  margin-top: 500px;
+}
+
+.right {
+  margin-bottom: 200px;
+  margin-left: 1818px;
 }
